@@ -1,0 +1,111 @@
+#navbar-headings {
+  font-weight: bolder;
+  color: blue;
+  font-size: 35px;
+}
+body {
+  background-image: url("./images/vanishing-stripes.svg");
+}
+#navbar {
+  box-shadow: 10px 10px 10px 0px whitesmoke;
+}
+#navbar-subheading {
+  font-size: 15px;
+  color: black;
+}
+#logo {
+  width: 130px;
+  height: 130px;
+}
+#heading-head {
+  text-shadow: 1.5px 1.5px black;
+  font-size: 50px;
+}
+.app-footer{
+  margin:auto;
+  width: 1510px;
+  height: 280px;
+  background-image: url("./images/footer-gradient.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 30px;
+  margin-bottom: -10px;
+}
+.footer-intro{
+  width: 320px;
+  height: 240px;
+  margin-left: 20px;
+  text-align: center;
+}
+.footer-image{
+  height: 110%;
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 7px;
+}
+.footer-text{
+  height: 220px;
+  width: 260px;
+  position: relative;
+  top: -240px;
+  left: 400px;
+  text-align: center;
+  border-right: 2px grey;
+}
+.footer-text-head{
+  font-weight: bolder;
+  font-size: 35px;
+  color: indigo;
+  position: relative;
+  top: -5px;
+}
+.footer-text-subhead{
+  font-weight: bolder;
+  font-size: 15px;
+  position: relative;
+  top: -13px;
+}
+.contact-us{
+  width: 350px;
+  height: 250px;
+  position: relative;
+  top: -510px;
+  left: 700px;
+  border-left: 2px solid grey;
+  border-right: 2px solid grey;
+  text-align: center;
+}
+.contact-us-text{
+  font-size: 35px;
+  font-weight: bolder;
+  position: relative;
+  top: 8px;
+  left: 15px;
+  color: indigo;
+}
+.footer-text-subhead1{
+  font-weight: bolder;
+  font-size: 15px;
+  margin-left: 15px;
+}
+.developers{
+  font-weight: bolder;
+  font-size: 35px;
+  margin-left: 20px;
+}
+#puneet{
+  font-weight: normal;
+}
+.footer-pic{
+  width: 360px;
+  height: 220px;
+  position: relative;
+  left: 1100px;
+  top: -787px;
+  text-align: center;
+  color: indigo;
+}
+.JOGINDER{
+  font-size: 20px;
+  color: black;
+}
